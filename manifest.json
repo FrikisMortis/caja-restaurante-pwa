@@ -1,0 +1,22 @@
+{
+  "name": "Caja Restaurante",
+  "short_name": "CajaApp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff5e6",
+  "theme_color": "#c72a2a",
+  "description": "Sistema de gestión de caja para restaurantes",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "orientation": "portrait"
+}
